@@ -5,12 +5,6 @@ def Insert(arr,i):
         arr[j+1] = arr[j]
         j -= 1
     arr[j+1] = key
-    # for i in range(i-1,0,-1):
-    #     if a[j]>a[j+1]:
-    #         a[j],a[j+1] = a[j+1],a[j]
-    #         # swap(a[j],a[j+1])
-    #     else:
-    #         break
 
 def InsersionSort(arr):
     for i in range(1,len(arr)):
