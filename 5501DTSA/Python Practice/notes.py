@@ -79,3 +79,5 @@ print("Hello " + name + "!")
 print(str(1251512))
 print(float("5.623623"))
 print(int("534"))
+
+#LISTS
