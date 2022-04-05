@@ -81,3 +81,4 @@ print(float("5.623623"))
 print(int("534"))
 
 #LISTS
+l = []
