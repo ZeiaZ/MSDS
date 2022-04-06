@@ -1,3 +1,3 @@
 #Red black trees
 def RedBlack(x):
-    return  
+    return  x
